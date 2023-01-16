@@ -3,7 +3,7 @@
 ## 1.Clone this repository and go to the repository directory:
 
 ```bash
-git clone https://github.com/stealthspectre/electronicAffidavit
+git clone https://github.com/adiabb05-1317/Electronic-Affidavit
 cd electronicAffidavit
 ```
 
